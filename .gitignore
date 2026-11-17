@@ -1,0 +1,13 @@
+# VCS / Verdi
+build/
+csrc/
+simv*
+*.daidir/
+*.fsdb
+*.vdb/
+verdiLog/
+novas*
+ucli.key
+*.log
+*.key
+files.f
